@@ -12,12 +12,6 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: LoginPage(),
-      // home: Scaffold(
-      //   appBar: AppBar(
-      //     title: Text("Aplikasi Helow"),
-      //   ),
-      //   body: Center(child: Text("Hwlo in center")),
-      // ),
     );
   }
 }

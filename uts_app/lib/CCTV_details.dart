@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/container.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:uts_app/Login.dart';
+import 'package:video_player/video_player.dart';
 
 class CCTV_details extends StatefulWidget {
   const CCTV_details({super.key});
@@ -25,6 +26,23 @@ class _CCTV_detailsState extends State<CCTV_details> {
               },
               icon: Icon(Icons.logout),
               color: Colors.white)
+        ],
+      ),
+      body: ListView(
+        children: [
+          Container(
+            padding: EdgeInsets.all(15),
+            child: Text(
+              "CCTV's Name",
+              style: TextStyle(fontSize: 20, fontWeight: FontWeight.w700),
+            ),
+          ),
+          Container(
+            padding: EdgeInsets.all(15),
+            child: Text(
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                style: TextStyle(fontSize: 20, fontWeight: FontWeight.w400)),
+          ),
         ],
       ),
     );

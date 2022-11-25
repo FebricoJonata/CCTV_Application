@@ -37,7 +37,7 @@ class _CCTV_pageState extends State<CCTV_page> {
           child: ListTile(
             leading: Icon(Icons.image),
             title: Text("CCTV's Name"),
-            subtitle: Text("kasjdhfkjasdhfksdf"),
+            subtitle: Text("Lorem ipsum dolor sit amet, consectetur adipiscing elit."),
             onTap: () {
               Navigator.of(context).push(
                 MaterialPageRoute(builder: (context) => CCTV_details()),
@@ -50,7 +50,7 @@ class _CCTV_pageState extends State<CCTV_page> {
           child: ListTile(
             leading: Icon(Icons.image),
             title: Text("CCTV's Name"),
-            subtitle: Text("kasjdhfkjasdhfksdf"),
+            subtitle: Text("Lorem ipsum dolor sit amet, consectetur adipiscing elit."),
             onTap: () {
               Navigator.of(context).push(
                 MaterialPageRoute(builder: (context) => CCTV_details()),
@@ -63,7 +63,7 @@ class _CCTV_pageState extends State<CCTV_page> {
           child: ListTile(
             leading: Icon(Icons.image),
             title: Text("CCTV's Name"),
-            subtitle: Text("kasjdhfkjasdhfksdf"),
+            subtitle: Text("Lorem ipsum dolor sit amet, consectetur adipiscing elit."),
             onTap: () {
               Navigator.of(context).push(
                 MaterialPageRoute(builder: (context) => CCTV_details()),
@@ -76,7 +76,7 @@ class _CCTV_pageState extends State<CCTV_page> {
           child: ListTile(
             leading: Icon(Icons.image),
             title: Text("CCTV's Name"),
-            subtitle: Text("kasjdhfkjasdhfksdf"),
+            subtitle: Text("Lorem ipsum dolor sit amet, consectetur adipiscing elit."),
             onTap: () {
               Navigator.of(context).push(
                 MaterialPageRoute(builder: (context) => CCTV_details()),
@@ -89,7 +89,7 @@ class _CCTV_pageState extends State<CCTV_page> {
           child: ListTile(
             leading: Icon(Icons.image),
             title: Text("CCTV's Name"),
-            subtitle: Text("kasjdhfkjasdhfksdf"),
+            subtitle: Text("Lorem ipsum dolor sit amet, consectetur adipiscing elit."),
             onTap: () {
               Navigator.of(context).push(
                 MaterialPageRoute(builder: (context) => CCTV_details()),
@@ -102,7 +102,7 @@ class _CCTV_pageState extends State<CCTV_page> {
           child: ListTile(
             leading: Icon(Icons.image),
             title: Text("CCTV's Name"),
-            subtitle: Text("kasjdhfkjasdhfksdf"),
+            subtitle: Text("Lorem ipsum dolor sit amet, consectetur adipiscing elit."),
             onTap: () {
               Navigator.of(context).push(
                 MaterialPageRoute(builder: (context) => CCTV_details()),
@@ -115,7 +115,7 @@ class _CCTV_pageState extends State<CCTV_page> {
           child: ListTile(
             leading: Icon(Icons.image),
             title: Text("CCTV's Name"),
-            subtitle: Text("kasjdhfkjasdhfksdf"),
+            subtitle: Text("Lorem ipsum dolor sit amet, consectetur adipiscing elit."),
             onTap: () {
               Navigator.of(context).push(
                 MaterialPageRoute(builder: (context) => CCTV_details()),
